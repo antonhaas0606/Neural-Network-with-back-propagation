@@ -1,4 +1,4 @@
-Neural Network in C++ (no libraries)
+# Neural Network in C++ (no libraries)
 
 This project implements a neural network with two hidden layers in pure C++, without using any external machine learning libraries. The architecture and learning algorithm are based on the mathematical concepts presented in 3Blue1Brown's video on Neural Networks.
 
